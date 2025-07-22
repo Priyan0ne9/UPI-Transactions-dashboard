@@ -58,7 +58,7 @@ Bookmarks & Navigation for improved user experience.
 Page-level navigation to separate different analysis perspectives.
 
 📈 Visuals Included
-Charts : 
+Charts : https://github.com/Priyan0ne9/UPI-Transactions-dashboard/blob/main/Charts.PNG
 Matrix :
 
 Matrix Table: Detailed breakdown by bank, age group, and payment method.
