@@ -1,7 +1,5 @@
 # UPI-Dashboard
 
-## Recommended Structure and Order
-
 ### 1. Project Title / Headline
 
 💸 UPI Insights: Analyzing 20,000 Digital Transactions Across India  
